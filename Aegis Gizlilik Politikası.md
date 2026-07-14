@@ -1,6 +1,6 @@
 Aegis Bot - Gizlilik Politikası
 
-Son Güncelleme: \[11.07.2026]
+Son Güncelleme: \[14.07.2026]
 
 
 
@@ -78,5 +78,5 @@ Sorularınız veya veri gizliliği ile ilgili talepleriniz için bize şu yollar
 
 
 
-Destek Sunucusu: \[https://discord.gg/3WhRuRh9cV]
+Destek Sunucusu: \[https://discord.gg/4AmpAdDNyW]
 
