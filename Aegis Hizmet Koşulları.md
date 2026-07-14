@@ -16,7 +16,7 @@ Sorumluluk: Botun herhangi bir sunucudaki hatalı kullanımı veya yapılandırm
 Aegis Bot, geliştirici tarafından herhangi bir zamanda güncellenebilir, bakıma alınabilir veya tamamen erişime kapatılabilir. Hizmetin sürekli veya hatasız çalışacağını garanti etmiyoruz.
 
 4. Veri Kullanımı
-Bot, sunucu ayarlarınızı ve ticket kayıtlarını, yalnızca işlevselliği sağlamak amacıyla saklar. Veri toplama uygulamalarımız hakkında daha fazla bilgi için [Gizlilik Politikası Linkini Buraya Ekle] sayfasını inceleyebilirsiniz.
+Bot, sunucu ayarlarınızı ve ticket kayıtlarını, yalnızca işlevselliği sağlamak amacıyla saklar. Veri toplama uygulamalarımız hakkında daha fazla bilgi için [https://raw.githubusercontent.com/BurkayBK44/aegis/refs/heads/main/Aegis%20Gizlilik%20Politikas%C4%B1.md] sayfasını inceleyebilirsiniz.
 
 5. Sorumluluk Reddi
 Aegis Bot "olduğu gibi" sağlanır. Botun kullanımından kaynaklanabilecek veri kaybı, sunucu hataları veya diğer teknik sorunlar için geliştirici hiçbir sorumluluk kabul etmez.
