@@ -1,5 +1,5 @@
 Aegis Bot - Hizmet Koşulları
-Son Güncelleme: [11.07.2026]
+Son Güncelleme: [14.07.2026]
 
 Aegis Bot'u ("Bot", "Hizmet") kullanarak aşağıdaki şartları kabul etmiş sayılırsınız. Lütfen bu şartları dikkatle okuyun.
 Hizmetin Kabulü
@@ -27,4 +27,4 @@ Bu Hizmet Koşulları'nı dilediğimiz zaman güncelleme hakkımız saklıdır. 
 7. İletişim
 Bu koşullarla ilgili sorularınız veya bot ile ilgili destek talepleriniz için bize şu adresten ulaşabilirsiniz:
 
-Destek Sunucusu: [https://discord.gg/3WhRuRh9cV]
+Destek Sunucusu: [https://discord.gg/4AmpAdDNyW]
